@@ -1,2 +1,2 @@
 # GamblingMaths
-Apogee Kernel Event
+Apogee Kernel Event of Mathematics Association, BITS Pilani
